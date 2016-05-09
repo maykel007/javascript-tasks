@@ -2,6 +2,7 @@
 
 module.exports = {
 
+    
     camelCase: function()
     {
         var str = '__test.your.skills__--';

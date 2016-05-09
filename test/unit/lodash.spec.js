@@ -936,7 +936,6 @@ describe('Lodash training', function ()
                 expect(arr[3]).to.equal('&');
             });
         });
-
     });
 
 });
